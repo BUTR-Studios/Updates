@@ -1,5 +1,7 @@
 # To-Do list for Butterium development 📒
 
+- [ ] Switch to .webp for backgrounds and more
+
 - [ ] Specs and help screen
 
 - [ ] Credits screen with Butterium settings
