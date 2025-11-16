@@ -42,7 +42,8 @@
 - [ ] Custom inventory shortcuts
 > Should be styled like the inventory and also adapt to resource packs, maybe contact some RP creators to add support
 
-- [ ] Port to 1.21.1 and NeoForge
+- [x] Port to 1.21.1 Fabric
+> I can't port to NeoForge, sorry
 
 - [ ] Remove some layouts for settings menus
 > Would improve mod compatability with mods that change settings
