@@ -5,10 +5,12 @@
 
 - [ ] Kill counter
 > Maybe similar to Fortnite- skull icon?
+
 > credit: fishandchips
 
 - [ ] Custom HUD item counters
 > e.g. gapples, arrows, potions
+
 > credit: fishandchips
 
 - [ ] Recreate Appleskin in SpiffyHUD
