@@ -1,5 +1,8 @@
 # To-Do list for Butterium development 📒
 
+- [ ] Simple Python Butterium launcher and installer
+> Gemini gave me a good repo or starting point, remember to check that future Caela
+
 - [ ] Hook in with Blossom Events
 > PvP practise gamemode too or something
 
