@@ -4,6 +4,7 @@
 > ↳  It's being developed by **me**, Claude and Gemini lmfao
 
 - [ ] Better/nicer fast leaves RP built-in
+> ↳  When applying video settings or loading in for the first time, check for fast leaves before loading the RP
 
 - [ ] Hook in with Blossom Events
 > ↳  PvP practise gamemode too or something
@@ -31,7 +32,7 @@
 > ↳  credit: fishandchips
 
 - [x] Port to 1.21.1 Fabric
-> ↳  I can't port to NeoForge yet, sorry
+> ↳  I can't port to NeoForge **_yet_**, sorry
 
 - [ ] [`ButterCord > #💡︱feature-requests`](https://discord.com/channels/1388641212977909881/1442602031935127673/1442622042854653982)
 
