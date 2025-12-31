@@ -1,5 +1,9 @@
 # To-Do list for Butterium development 📒
 
+- [ ] Configure the "Crash Assistant" mod
+
+- [ ] Set up Discord Status (again)
+
 - [ ] Simple and temporary Python Butterium launcher and installer
 > ↳  It's being developed by **me**, Claude and Gemini lmfao
 
