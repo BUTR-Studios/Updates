@@ -3,6 +3,7 @@
 - [ ] Add a one-time "if you like this pack please favourite it on MR and join the DC" pop-up
 
 - [ ] ButterHost integration and features
+> ↳  Like starting a free trial from in game *(referral system too)*
 
 - [ ] Configure the "Crash Assistant" mod
 
