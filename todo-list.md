@@ -1,8 +1,24 @@
 # To-Do list for Butterium development 📒
 
+- [ ] Add a one-time "if you like this pack please favourite it on MR and join the DC" pop-up
+
+- [ ] ButterHost integration and features
+
 - [ ] Configure the "Crash Assistant" mod
 
 - [ ] Set up Discord Status (again)
+
+- [ ] e4mc fork with custom username.butr.fun IP for world sharing
+
+- [ ] Sponsored servers? Default to sponsored.butr.fun on quick connect first launch
+
+- [ ] Installer, launcher and minimal mobile app
+
+- [ ] Move assets to resources
+> ↳  Also allow resource pack to edit configs and stuff with txts like overrides (prompt first)
+
+- [ ] Spec detection and optimization 
+> ↳  Optimize configs, options and the mods enabled
 
 - [ ] Simple and temporary Python Butterium launcher and installer
 > ↳  It's being developed by **me**, Claude and Gemini lmfao
@@ -35,8 +51,8 @@
 - [ ] Armor durability HUD
 > ↳  credit: fishandchips
 
-- [x] Port to 1.21.1 Fabric
-> ↳  I can't port to NeoForge **_yet_**, sorry
+- [ ] Ports to 1.21.1 and 1.20.1 Fabric
+> ↳  Also just try NeoForge
 
 - [ ] [`ButterCord > #💡︱feature-requests`](https://discord.com/channels/1388641212977909881/1442602031935127673/1442622042854653982)
 
@@ -54,7 +70,7 @@
 > With "downloading update" and "your game may freeze during install, don't worry" texts
 
 - [ ] Update and enable friends sidebar
-> ↳  The friends sidebar is half-finished but the API is there and enabled/working
+> ↳  With world/server invites, friends sidebar is half-finished
 
 - [ ] Switch to .webp for backgrounds and more
 > ↳  Not possible YET, request in FancyMenu GitHub
