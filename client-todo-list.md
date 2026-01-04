@@ -5,7 +5,8 @@
 - [ ] ButterHost integration and features
 > ↳  Like starting a free trial from in game *(referral system too)*
 
-- [ ] Crash Assistant with Discord link
+- [ ] Launcher Crash Assistant
+> ↳  With Discord link and "copy logs" button
 
 - [ ] Fix Modrinth "listings"
 
@@ -13,19 +14,25 @@
 
 - [ ] Translucent HUD widget backgrounds
 
-- [ ] Set up Discord Status to include 
+- [ ] Set up Discord Status to include download button
 
 - [ ] e4mc fork with custom username.butr.fun IP for world sharing
 
 - [ ] Partnered servers? Default to partner.butr.fun on quick connect first launch
+> ↳  For cool partnered events servers, show their live events on the main menu like Bedrock
 
 - [ ] Installer, launcher and minimal mobile app
+> ↳  https://github.com/BUTR-Studios/BUTR-Launcher
 
-- [ ] Move assets to resources and rework all icons as pixel-perfect images (maybe with seperate folder for included shadows)
+- [ ] Move assets to resources
 > ↳  Also allow resource pack to edit configs and stuff with txts like overrides (prompt first)
 
+>    Rework all icons as pixel-perfect images (maybe with seperate folder for included shadows)
+
+>    Move all text to localization keys
+
 - [ ] Spec detection and optimization 
-> ↳  Optimize configs, options and the mods enabled - 3 presets of mods (RAM bottlenecked, low-mid end, mid-high end, ULTRA)
+> ↳  https://github.com/BUTR-Studios/spec-engine
 
 - [ ] Simple and temporary Python Butterium launcher and installer
 > ↳  It's being developed by **me**, Claude and Gemini lmfao
@@ -40,9 +47,6 @@
 
 >    credit: fishandchips
 
-- [ ] Move text to localization keys
-> ↳  This would allow for translations of buttons and text
-
 - [ ] Custom HUD item counters
 > ↳  e.g. gapples, arrows, potions
 
@@ -52,35 +56,21 @@
 > ↳  credit: fishandchips
 
 - [ ] Ports to 1.21.1 and 1.20.1 Fabric
-> ↳  Also just try NeoForge
-
-- [ ] HEX code accent colours
-> ↳  https://github.com/Keksuccino/FancyMenu/issues/1398
 
 - [ ] Allow compatible mods to be installed from in-game
 > ↳  "You have unsaved changes" text for when the user needs to restart their game
 
+>    Remove mods with .bat/.sh
+
 >    Inspired by Lunar and Feather mods screens- showing just icons, clicking them opens the description and/or config (maybe a description screen with a button for config)
-
-- [ ] Test auto-update and updating mods
-> ↳  https://discord.com/channels/704163135787106365/1429870103545118840
-
-> With "downloading update" and "your game may freeze during install, don't worry" texts
 
 - [ ] Update and enable friends sidebar
 > ↳  With world/server invites, friends sidebar is half-finished
 
-- [ ] Switch to .webp for backgrounds and more
-> ↳  Not possible YET, request in FancyMenu GitHub
-
 - [ ] Specs and help screen
 > ↳  Similar to the old Astro/ButterSmooth one
 
-- [ ] Credits screen with Butterium settings
-
 - [ ] Click FX at the cursor
-
-- [ ] Space background with intense reversed parallax effect
 
 - [ ] Donate and Discord buttons in options
 
@@ -88,10 +78,7 @@
 > ↳  This will help users better understand Butterium and edit the FM configuration
 
 - [ ] Known mod incompatibility warning from GitHub (ver).txt
-> ↳  Compare loaded mods to a GitHub list of incompatible mods
-
-- [ ] Known mod incompatibilities should be logged
-> ↳  In the Minecraft logs using FMs new action
+> ↳  Compare loaded mods to a GitHub list of incompatible mods - also send to logs
 
 - [ ] Custom inventory shortcuts
 > ↳  Should be styled like the inventory and also adapt to resource packs, maybe contact some RP creators to add support
@@ -109,9 +96,6 @@
 
 - [ ] Light and Midnight UI themes
 > ↳  credit: fishandchips
-
-- [ ] Replace button labels and text with localisation keys
-> ↳  Would allow for multiple languages to be supported and for labels to change with resource packs
 
 - [ ] Animated background (GIF, MP4 and MOV support)
 > ↳  Likely to be used for user-added custom backgrounds
