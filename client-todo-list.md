@@ -1,6 +1,6 @@
 # To-Do list for Butterium development 📒
 
-- [ ] Add a one-time "if you like this pack please favourite it on MR and join the DC" pop-up
+- [x] Add a one-time "if you like this pack please favourite it on MR and join the DC" pop-up
 
 - [ ] ButterHost integration and features
 > ↳  Like starting a free trial from in game *(referral system too)*
@@ -25,7 +25,7 @@
 - [ ] Installer, launcher and minimal mobile app
 > ↳  https://github.com/BUTR-Studios/BUTR-Launcher
 
-- [ ] Move assets to resources
+- [x] Move assets to resources
 > ↳  Also allow resource pack to edit configs and stuff with txts like overrides (prompt first)
 
 >    Rework all icons as pixel-perfect images (maybe with seperate folder for included shadows)
