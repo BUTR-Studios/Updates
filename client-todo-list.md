@@ -1,6 +1,6 @@
 # To-Do list for Butterium development 📒
 
-- [x] Add a one-time "if you like this pack please favourite it on MR and join the DC" pop-up
+- [x] Add a "support us" widget
 
 - [ ] ButterHost integration and features
 > ↳  Like starting a free trial from in game *(referral system too)*
